@@ -46,4 +46,4 @@ There are total of `39881` rows in the datset. `80%` of the dataset was used for
 The model was able to achieve high quality translation.
 
 ## Authors
-- Palash Mahendra Kamble - [palash04](https://github.com/palash04/)
+- Shubham Wasnik
