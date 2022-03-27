@@ -1,7 +1,7 @@
 # Machine Translation (English sentence to Hindi sentence)
 This project was made as a part of my individual projects.
 
-#### -- Project Timeline: [July 2021]
+#### -- Project Timeline: [September 2021]
 #### -- Project Status: [Completed]
 
 
